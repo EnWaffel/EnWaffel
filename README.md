@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnWaffel
 - 👀 I’m interested in Programming.
-- 📫 How to reach me (currently not).
+- 📫 How to reach me: EnWaffel#2405 (Discord).
 
 <!---
 EnWaffel/EnWaffel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
